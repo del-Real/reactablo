@@ -1,0 +1,19 @@
+.sceneframe-main {
+  width: 85%;
+  padding: 25px;
+  background-color: #191c21;
+}
+
+.sceneframe-titles {
+  display: flex;
+  justify-content: space-between;
+}
+
+.scene-title {
+  margin: 0;
+  color: #b4a3ff;
+}
+
+.presentation-title {
+  font-weight: 300;
+}
